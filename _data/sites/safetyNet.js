@@ -4,7 +4,7 @@ module.exports = {
 	options: {
 		frequency: 60 * 4, // (in minutes), 4 hours
 	},
-	urls:
+	urls: [
 		"https://nheasy.nh.gov/",
     "https://www.mybenefitscalwin.org/",
     "https://www.c4yourself.com/",
