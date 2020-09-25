@@ -1,6 +1,6 @@
 module.exports = {
 	name: "GetCalFresh", // optional, falls back to object key
-	description: "SNAP",
+	description: "GetCalFresh",
 	options: {
 		frequency: 60 * 4, // (in minutes), 4 hours
 	},
