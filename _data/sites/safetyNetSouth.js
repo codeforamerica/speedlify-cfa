@@ -2,7 +2,9 @@ module.exports = {
 	name: "Safety Net South", // optional, falls back to object key
 	description: "Safety Net South",
 	options: {
-		frequency: 60 * 4, // (in minutes), 4 hours
+		runs: 1,
+		frequency: 60 * 12, // (in minutes)
+		freshChrome: "run",
 	},
 	urls: [
     "https://alabamacares.alabama.gov",

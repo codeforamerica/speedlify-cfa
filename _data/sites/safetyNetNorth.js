@@ -2,11 +2,13 @@ module.exports = {
 	name: "Safety Net North", // optional, falls back to object key
 	description: "Safety Net North",
 	options: {
-		frequency: 60 * 4, // (in minutes), 4 hours
+		runs: 1,
+		frequency: 60 * 12, // (in minutes)
+		freshChrome: "run",
 	},
 	urls: [
     "https://abe.illinois.gov/abe/access/",
-    "https://www.ifcem.com/CitizenPortal/application.do",
+    "https://fssabenefits.in.gov/bp/#/",
     "https://secureapp.dhs.state.ia.us/oasis/OASIS0100.aspx",
     "https://dhsservices.iowa.gov/apspssp/ssp.portal",
     "http://www.dcf.ks.gov/services/ees/Pages/Application-for-benefits.aspx",

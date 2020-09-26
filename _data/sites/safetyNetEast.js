@@ -2,7 +2,9 @@ module.exports = {
 	name: "Safety Net East", // optional, falls back to object key
 	description: "Safety Net East",
 	options: {
-		frequency: 60 * 4, // (in minutes), 4 hours
+		runs: 1,
+		frequency: 60 * 12, // (in minutes)
+		freshChrome: "run",
 	},
 	urls: [
     "https://www.connect.ct.gov/access/unauth/accessController?id=0.15745582065466612&languageCode=en",
