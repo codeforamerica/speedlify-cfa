@@ -1,6 +1,6 @@
 module.exports = {
-	name: "Safety Net East", // optional, falls back to object key
-	description: "Safety Net East",
+	name: "Safety Net", // optional, falls back to object key
+	description: "Safety Net",
 	options: {
 		runs: 1,
 		frequency: 60 * 12, // (in minutes)
@@ -79,6 +79,6 @@ module.exports = {
     // "http://dhhs.ne.gov/Children_Family_Services/AccessNebraska/Pages/accessnebraska_index.aspx",
     // "https://odjfsbenefits.ohio.gov/SelfServiceSplash.jsf",
     // "https://apps.sd.gov/ss36snap/web/Portal/Default.aspx",
-    // "https://access.wisconsin.gov/access/",			
+    // "https://access.wisconsin.gov/access/",
 	]
 };
