@@ -1,6 +1,6 @@
 module.exports = {
-	name: "Safety Net", // optional, falls back to object key
-	description: "Safety Net",
+	name: "50 State Benefits", // optional, falls back to object key
+	description: "50 State Benefits",
 	options: {
 		runs: 1,
 		frequency: 60 * 12, // (in minutes)
