@@ -1,6 +1,6 @@
 module.exports = {
-	name: "50 State Benefits", // optional, falls back to object key
-	description: "50 State Benefits",
+	name: "Unemployment Insurance", // optional, falls back to object key
+	description: "Unemployment Insurance",
 	options: {
 		runs: 1,
 		frequency: 60 * 12, // (in minutes)
