@@ -9,6 +9,6 @@ module.exports = {
 	urls: [
 		"https://ca.p-ebt.org/",
 		"https://mn.p-ebt.org/",
-		"https://dtaconnect.eohhs.mass.gov/pebt",		
+		"https://dtaconnect.eohhs.mass.gov/PEBT",
 	]
 };
