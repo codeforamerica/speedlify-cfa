@@ -8,8 +8,8 @@ module.exports = {
 		"https://www.getcalfresh.org/",
 		"https://www.getyourrefund.org/",
 		"https://www.mnbenefits.org/",
-		"https://www.codeforamerica.org,"
+		"https://www.codeforamerica.org",
 		"https://www.clearmyrecord.org",
-		"https://jobs.codeforamerica.org"		
+		"https://jobs.codeforamerica.org"
 	]
 };
