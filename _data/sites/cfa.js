@@ -9,7 +9,7 @@ module.exports = {
 		"https://www.getyourrefund.org/en",
 		"https://www.mnbenefits.org/",
 		"https://www.codeforamerica.org",
-		"https://www.clearmyrecord.org",
-		"https://jobs.codeforamerica.org"
+		"https://new.codeforamerica.org",
+		"https://www.clearmyrecord.org"
 	]
 };
