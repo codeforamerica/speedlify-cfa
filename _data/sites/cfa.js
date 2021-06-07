@@ -7,7 +7,7 @@ module.exports = {
 	urls: [
 		"https://www.codeforamerica.org",
 		"https://www.getcalfresh.org/",
-	"https://www.getyourrefund.org/en",
+		"https://www.getyourrefund.org/en",
 		"https://www.mnbenefits.org/",
 		"https://www.clearmyrecord.org"
 	]
