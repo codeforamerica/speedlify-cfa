@@ -1,12 +1,12 @@
 module.exports = {
-	name: "50 State Benefits", // optional, falls back to object key
-	description: "50 State Benefits",
-	options: {
-		runs: 1,
-		frequency: 60 * 12, // (in minutes)
-		freshChrome: "run",
-	},
-	urls: [
+  name: "50 State Benefits", // optional, falls back to object key
+  description: "50 State Benefits",
+  options: {
+    runs: 1,
+    frequency: 60 * 12, // (in minutes)
+    freshChrome: "run",
+  },
+  urls: [
     "https://www.connect.ct.gov/",
     "https://assist.dhss.delaware.gov/",
     "https://maine.gov/benefits/account/login.html",
@@ -25,26 +25,26 @@ module.exports = {
     // "https://healthyrhode.ri.gov/HIXWebI3/DisplayHomePage",
     // "http://dcf.vermont.gov/mybenefits/apply",
     // "https://portal.healthconnect.vermont.gov",
-		"https://aries.alaska.gov/screener/?logIn=N",
-		"https://www.mybenefitscalwin.org/",
-		"https://www.c4yourself.com/",
-		"https://www.yourbenefits.laclrs.org/",
-		// "https://www.healthearizonaplus.gov/Default/Default.aspx",
-		// "https://coloradopeak.secure.force.com/",
-		// "https://www.healthinformatics.dphe.state.co.us/WICSignUp",
-		// "http://humanservices.hawaii.gov/",
-		// "http://healthandwelfare.idaho.gov/FoodCashAssistance/ApplyforAssistance/tabid/1554/Default.aspx",
-		// "https://apply.mt.gov/access/accessController?id=0.488303387473776",
-		// "https://dwss.nv.gov/Apply/APPLY/",
-		// "https://www.yes.state.nm.us/",
-		// "https://apps.state.or.us/onlineApplication",
-		// "https://healthcare.oregon.gov/Pages/index.aspx",
-		// "https://jobs.utah.gov/mycase/",
-		// "https://www.wahealthplanfinder.org/",
-		// "https://www.washingtonconnection.org/home/",
-		// "https://www.wesystem.wyo.gov/AVANCE_ONLINE_APP/Landing.action",
-		// "https://www.wyolieap.com/Application/",
-		"https://alabamacares.alabama.gov",
+    "https://aries.alaska.gov/screener/?logIn=N",
+    "https://www.mybenefitscalwin.org/",
+    "https://www.c4yourself.com/",
+    "https://www.yourbenefits.laclrs.org/",
+    // "https://www.healthearizonaplus.gov/Default/Default.aspx",
+    // "https://coloradopeak.secure.force.com/",
+    // "https://www.healthinformatics.dphe.state.co.us/WICSignUp",
+    // "http://humanservices.hawaii.gov/",
+    // "http://healthandwelfare.idaho.gov/FoodCashAssistance/ApplyforAssistance/tabid/1554/Default.aspx",
+    // "https://apply.mt.gov/access/accessController?id=0.488303387473776",
+    // "https://dwss.nv.gov/Apply/APPLY/",
+    // "https://www.yes.state.nm.us/",
+    // "https://apps.state.or.us/onlineApplication",
+    // "https://healthcare.oregon.gov/Pages/index.aspx",
+    // "https://jobs.utah.gov/mycase/",
+    // "https://www.wahealthplanfinder.org/",
+    // "https://www.washingtonconnection.org/home/",
+    // "https://www.wesystem.wyo.gov/AVANCE_ONLINE_APP/Landing.action",
+    // "https://www.wyolieap.com/Application/",
+    "https://alabamacares.alabama.gov",
     "https://mydhr.alabama.gov/",
     "https://eligibilityenrollment.arkansas.gov/CitizenPortal/application.do",
     "https://gateway.ga.gov/access/",
@@ -66,7 +66,7 @@ module.exports = {
     // "https://commonhelp.virginia.gov/access/accessController?id=0.9048415000315394",
     // "https://wvwichousehold.wvdhhr.org/",
     // "https://www.wvinroads.org/selfservice/",
-		"https://abe.illinois.gov/abe/access/",
+    "https://abe.illinois.gov/abe/access/",
     // "https://fssabenefits.in.gov/bp/#/",
     // "https://secureapp.dhs.state.ia.us/oasis/OASIS0100.aspx",
     // "https://dhsservices.iowa.gov/apspssp/ssp.portal",
@@ -80,5 +80,5 @@ module.exports = {
     // "https://odjfsbenefits.ohio.gov/SelfServiceSplash.jsf",
     // "https://apps.sd.gov/ss36snap/web/Portal/Default.aspx",
     "https://access.wisconsin.gov/access/",
-	]
+  ]
 };
