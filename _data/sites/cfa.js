@@ -10,5 +10,6 @@ module.exports = {
 		"https://www.mnbenefits.org/",
 		"https://www.clearmyrecord.org",
 		"https://www.codeforamerica.org",
+		"https://www.getctc.org/en",
 	]
 };
