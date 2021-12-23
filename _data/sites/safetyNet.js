@@ -5,6 +5,7 @@ module.exports = {
     runs: 1,
     frequency: 60 * 12, // (in minutes)
     freshChrome: "run",
+    chromeFlags: ['--headless', '--disable-dev-shm-usage'],
   },
   urls: [
     "https://www.connect.ct.gov/",
