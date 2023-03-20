@@ -8,11 +8,12 @@ module.exports = {
   urls: [
     "https://www.getcalfresh.org/",
     "https://www.getyourrefund.org/en",
-    "https://mnbenefits.mn.gov/",
     "https://demo.mnbenefits.org/",
     "https://www.clearmyrecord.org",
     "https://www.codeforamerica.org",
     "https://www.getctc.org/en",
-    "http://app-46361.on-aptible.com/"
+    "https://forms-starter.cfa-platforms.org/",
+    "https://ccap.codeforamerica.org/",
+    "https://www.benefitslouisiana.org/"
   ]
 };
